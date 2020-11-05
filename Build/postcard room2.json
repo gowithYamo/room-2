@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Room 2",
+"productVersion": "0.1",
+"dataUrl": "postcard room2.data.unityweb",
+"wasmCodeUrl": "postcard room2.wasm.code.unityweb",
+"wasmFrameworkUrl": "postcard room2.wasm.framework.unityweb",
+"wasmSymbolsUrl": "postcard room2.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
